@@ -28,6 +28,7 @@ int main(){
             cin >> a[i];
             if(!mp[a[i]]){
                 d++;
+                ll x=1;
             }
             mp[a[i]]=1;
         }
