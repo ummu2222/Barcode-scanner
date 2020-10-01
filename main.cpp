@@ -9,7 +9,7 @@ using namespace std;
 #define MOD 1000000007
 #define fast ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 #define pi 3.14159265358979323846
-#define Q ll _; cin >> _; while(_--)
+#define w ll _; cin >> _; while(_--)
 #define endl "\n"
 #define flush fflush(stdout);
 #define fixedprec cout << fixed << setprecision(18);
@@ -18,7 +18,7 @@ int main(){
 
     fast
 
-    Q{
+    w{
         ll i,j,n,k;
         cin >> n >> k;
         ll a[n];
@@ -53,7 +53,7 @@ int main(){
         }
         else{
             cout << ans << endl;
-        }
+        }       //ujjwal
     }
 
 }
