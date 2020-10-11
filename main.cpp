@@ -7,7 +7,7 @@ using namespace std;
 #define ld long double
 #define MAX 101
 #define MOD 1000000007
-#define fast ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+#define fast ios::sync_with_stdio(0);cin.tie(0);cout.tie(0)
 #define pi 3.14159265358979323846
 #define w ll _; cin >> _; while(_--)
 #define endl "\n"
@@ -16,7 +16,7 @@ using namespace std;
 
 int main(){
 
-    fast
+    fast;
 
     w{
         ll i,j,n,k;
