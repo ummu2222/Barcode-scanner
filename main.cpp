@@ -17,7 +17,7 @@ using namespace std;
 int main(){
 
     fast;
-
+    for(int i=0;i<10;i++);
     w{
         ll i,j,n,k;
         cin >> n >> k;
